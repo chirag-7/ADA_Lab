@@ -1,5 +1,5 @@
-#include&lt;stdio.h&gt;
-#include&lt;conio.h&gt;
+#include<stdio.h>
+#include<conio.h>
 intcount,w[10],d,x[10];
 void subset(intcs, int k, int r)
 {
